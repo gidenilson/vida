@@ -1,0 +1,34 @@
+body {
+    font-family: cursive;
+    margin: 15px;
+    color: whitesmoke;
+    background-color: darkgreen;
+    text-align: center;
+    font-size: 1.5rem;
+}
+main{
+    max-width: 1000px;
+    margin:auto;
+}
+h1 {
+    font-family: 'Francois One', sans-serif;
+}
+canvas{
+    background-color: whitesmoke;
+}
+img{
+    max-width: 100%;
+}
+.footer{
+    font-size: 0.85rem;
+    margin: 10px;
+}
+.fonte{
+    display: flex;
+    justify-content: center;
+
+
+}
+span{
+    margin: 3px;
+}
