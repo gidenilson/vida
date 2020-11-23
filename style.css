@@ -1,6 +1,6 @@
 body {
-    font-family: cursive;
-    margin: 15px;
+    font-family: 'Francois One', sans-serif;
+     margin: 15px;
     color: whitesmoke;
     background-color: darkgreen;
     text-align: center;
@@ -10,9 +10,7 @@ main{
     max-width: 1000px;
     margin:auto;
 }
-h1 {
-    font-family: 'Francois One', sans-serif;
-}
+
 canvas{
     background-color: whitesmoke;
 }
